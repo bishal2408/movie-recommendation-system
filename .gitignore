@@ -1,0 +1,4 @@
+/mrs-website/.venv
+/mrs-website/movies.pkl
+/mrs-website/similarity.pkl
+/model-building/.ipynb_checkpoints
